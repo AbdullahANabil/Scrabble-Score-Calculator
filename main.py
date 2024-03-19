@@ -112,6 +112,6 @@ print( final_score)
 
 
 
-# main body
+
 #print( get_word_score('DAD') )
 #print( get_word_score('DADA') )
